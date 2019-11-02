@@ -3,7 +3,7 @@ In this assignment, teams are tasked with conducting an analysis utilizing data 
 
 
 ##20191102
-  """Create common dataset of cleaned data 'world' and 'ssa'
+  """Create common dataset of cleaned data 'world' and 'ssa'\n
 ##20191102 13:24
   """Updated the extractiong of GDP related data"""
   
